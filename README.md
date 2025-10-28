@@ -98,3 +98,6 @@ The web page is divided into two independent sections:
 ### PDF Download
 
   * After running either feature, click **"Download Report as PDF"** to save the resulting content (the resume or the ATS report) as a professional PDF file.
+
+
+### you can also test here [https://resumer-ai.netlify.app/](https://resumer-ai.netlify.app/) 
